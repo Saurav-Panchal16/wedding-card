@@ -1,0 +1,10 @@
+{
+  "name": "wedding-invitation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gaurav & Muskan wedding invitation website (static site, deploys to Vercel as-is)",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}
